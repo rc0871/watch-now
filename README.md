@@ -152,7 +152,7 @@ And I should receive at least one result with these attributes:
 ### Team Members
  1) Devops Engineer / Scrum Master - [Darren Shipley](https://github.com/shipleydm)
  2) Front End Engineer - [Jason Day](https://github.com/jasonjday)
- 3) Integration Engineer - [Praveen Singi](https://github.com/praveensingi)
+ 3) Integration Engineer - [Ram Charan](https://github.com/rc0871)
 
 ### Weekly meeting time and format 
 Friday 7:30 PM in Teams
